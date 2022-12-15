@@ -217,6 +217,9 @@ h3 {
     margin: 60px 0px 60px 0;
 
 }
+.contato-padrao {
+    display:inline;
+}
 
 .subcontato {
     display: inline-block;
@@ -225,7 +228,7 @@ h3 {
 
 
 .contato-padrao {
-    display: inline;
+    display: flex;
     margin-left: 50px;
 
 
@@ -251,7 +254,7 @@ h3 {
 
 
 form {
-    margin: 40px 0;
+    margin-left:350px;
 
 }
 
